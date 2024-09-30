@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(37,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(39,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(55,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(56,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(57,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(82,9): warning C4101: 'position': variable local sin referencia
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(139,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(140,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(141,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\algebra tp2\main.cpp(274,54): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  algebra tp2.vcxproj -> C:\Users\Gab PC\Downloads\TP2 ALGEBRA TS\TP2 ALGEBRA\Debug\algebra tp2.exe
